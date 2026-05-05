@@ -47,18 +47,13 @@ In B2B environments, users rarely convert immediately. The challenge is identify
 
 ## Visual Insights
 
-### Engagement by Traffic Source
-![Traffic](visuals/avg_engagement_by_source.png)
+Key behavioural patterns identified through analysis:
 
-### Scroll Depth by Page
-![Scroll](visuals/avg_scroll_by_page.png)
+- Traffic source vs engagement (Direct vs Organic)
+- Scroll depth as a proxy for intent
+- User segmentation based on engagement levels
 
-### Device Engagement
-![Device](visuals/device_engagement.png)
-
-### User Segmentation
-![Segmentation](visuals/engagement_segmentation.png)
-
+* (Visualisations available in the `/visuals` folder)*
 ---
 
 ## Machine Learning Use Case
